@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Διεθνοποίηση</string>
+    <string name="country_name">Ελλάδα</string>
+    <string name="titulo_Paises">Χώρες</string>
+    <string name="comida">μουσακάς</string>
+</resources>

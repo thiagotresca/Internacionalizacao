@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">國際化</string>
+    <string name="country_name">中國</string>
+    <string name="titulo_Paises">国别</string>
+    <string name="comida">拉面汤</string>
+</resources>

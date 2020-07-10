@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Internazionalizzazione"</string>
+    <string name="country_name">Italia</string>
+    <string name="titulo_Paises">Paesi</string>
+    <string name="comida">Pizza</string>
+</resources>

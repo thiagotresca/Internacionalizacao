@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Internationalisierung"</string>
+    <string name="country_name">Deutschland</string>
+    <string name="titulo_Paises">Länder</string>
+    <string name="comida">Königsberger Klopse</string>
+</resources>
